@@ -41,11 +41,9 @@ const (
 </style>
 </head>
 <body>
-<h1>The page you visit not found.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>The server is powered by <a href="https://github.com/fatedier/frp">frp</a>.</p>
-<p><em>Faithfully yours, frp.</em></p>
+<h1>找不到您访问的页面或程序。</h1>
+<p>抱歉，当前页面或程序当前不可用。<br/>
+请稍后查看客户端是否正常启动。</p>
 </body>
 </html>
 `
